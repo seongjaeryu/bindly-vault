@@ -1,0 +1,25 @@
+{
+  "linkId": "Nz8Qxx",
+  "bindingId": "binding_1762702504463_8tk9ri0pg",
+  "binderId": "binder_1762702481729_r7i9xs3is",
+  "version": 1,
+  "createdAt": "2025-11-09T15:40:00.053Z",
+  "snapshot": {
+    "binding": {
+      "id": "binding_1762702504463_8tk9ri0pg",
+      "binderId": "binder_1762702481729_r7i9xs3is",
+      "name": "test1110 binding",
+      "description": "",
+      "version": 1,
+      "content": "# test1110 binding\n\nsadsadasdasdasdasdsadsadsad",
+      "summary": "문서에 \"test1110 binding\"이라는 제목과 함께 새로운 텍스트 내용이 추가되었습니다. 추가된 내용은 간단한 텍스트 문자열로 구성되어 있습니다.",
+      "reason": "새로운 문서 또는 파일을 생성하여 'test1110 binding'에 대한 초기 내용을 추가하기 위해 변경했습니다.",
+      "createdAt": "2025-11-09T15:35:56.514Z"
+    },
+    "binder": {
+      "name": "test1110",
+      "description": ""
+    },
+    "previousVersions": []
+  }
+}
